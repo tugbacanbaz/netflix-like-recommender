@@ -185,3 +185,7 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8001, reload=True)
 ```
+
+
+![image](https://github.com/user-attachments/assets/68c375b0-c561-402e-b561-616e20155cb1)
+
